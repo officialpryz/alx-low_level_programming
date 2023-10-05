@@ -1,0 +1,4 @@
+5-printf.c:9: WARNING: please, no spaces at the start of a line
+5-printf.c:10: WARNING: please, no spaces at the start of a line
+5-printf.c:10: ERROR: space required before the open parenthesis '('
+total: 2 errors, 2 warnings, 11 lines checked
