@@ -14,7 +14,7 @@ int main(void)
    * start here
    *
    */
-  char a;
+char a;
 
 for (a = 'z'; a >= 'a'; a--)
 putchar(a);
