@@ -7,12 +7,11 @@
  */
 int main(void)
 {
-  /**
-   * main function
-   *
-   * start here
-   */
-  
+/**
+ * main function
+ *
+ * start here
+ */ 
 char a;
 
 for (a = 'a'; a <= 'z' ; a++)
