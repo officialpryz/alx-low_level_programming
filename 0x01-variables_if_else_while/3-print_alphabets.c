@@ -1,12 +1,12 @@
 #include <stdio.h>
+
 /**
- *
  * main entry - point
  *
  * Return: always returns 0
  *
  */
-int main (void)
+int main(void)
 {
   /**
    *
@@ -14,12 +14,12 @@ int main (void)
    *
    * start here
    *
-   */  
+   */
 char a;
 
 for (a = 'a'; a <= 'z'; a++)
 putchar(a);
-for (a ='A'; a <= 'Z'; a++)
+for (a = 'A'; a <= 'Z'; a++)
 putchar(a);
 putchar('\n');
 return (0);
