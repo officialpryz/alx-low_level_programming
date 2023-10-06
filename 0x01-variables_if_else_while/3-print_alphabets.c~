@@ -1,0 +1,26 @@
+#include <stdio.h>
+/**
+ *
+ * main entry - point
+ *
+ * Return: always returns 0
+ *
+ */
+int main (void)
+{
+  /**
+   *
+   * main function
+   *
+   * start here
+   *
+   */  
+char a;
+
+for (a = 'a'; a <= 'z'; a++)
+purchar(a);
+for (a ='A'; a <= 'Z'; a++)
+purchar(a);
+purchat('\n');
+return (0);
+}
