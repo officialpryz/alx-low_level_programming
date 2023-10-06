@@ -13,7 +13,7 @@ int main(void)
    *
    * start here
    */
-  int a = 0;
+int a = 0;
 
 for (; a < 10 ; a++)
 printf("%d", a);
