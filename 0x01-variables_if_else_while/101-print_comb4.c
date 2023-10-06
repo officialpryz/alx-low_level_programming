@@ -11,7 +11,7 @@ int main(void)
   /**
    * main function
    *
-   * start here 
+   * start here
    *
    */
 int a;
