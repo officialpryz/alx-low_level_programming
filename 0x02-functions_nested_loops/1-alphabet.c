@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
- * print_alphabet - print alphabets
+ * main - check the code
  *
  * return: always 0
  *
  */
+int main(void)
 void print_alphabet(void)
 {
   /**
@@ -15,7 +16,7 @@ void print_alphabet(void)
  char x;
  for (x = 'a'; x <= 'z'; x++)
  {
- _putchar(x)
+ putchar(x)
  }
- _putchar('\n')
+ putchar('\n')
  }
