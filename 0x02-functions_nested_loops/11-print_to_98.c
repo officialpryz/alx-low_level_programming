@@ -2,6 +2,12 @@
 #include "6-abs.c"
 #include <stdio.h>
 
+/**
+ * print_to_98 - print all natural numbers to 98
+ *
+ * Return: always 0
+ *
+ */
 void print_to_98(int n)
 {
 int i;
