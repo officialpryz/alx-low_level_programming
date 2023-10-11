@@ -5,6 +5,8 @@
 /**
  * print_to_98 - print all natural numbers to 98
  *
+ * @n: greater than 98
+ *
  * Return: always 0
  *
  */
