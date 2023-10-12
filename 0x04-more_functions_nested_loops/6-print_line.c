@@ -2,13 +2,13 @@
 /**
  * print_line - prints a line
  *
- * @x: integer to print stuff?
+ * @n: integer to print stuff?
  */
-void print_line(int x)
+void print_line(int n)
 {
 int a;
 
-for (a = '0'; a < x; a++)
+for (a = '0'; a < n; a++)
 {
 _putchar('_');
 }
