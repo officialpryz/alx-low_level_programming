@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _strlen - gets character string 
+ * _strlen - gwts character string 
  *
  * @s: character to getstring
  * Return: returns length
