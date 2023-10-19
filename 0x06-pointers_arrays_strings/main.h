@@ -17,4 +17,8 @@ char *cap_string(char *);
 
 int _putchar(char c);
 
+int _indexOf(char a);
+
+char *leet(char *);
+
 #endif
