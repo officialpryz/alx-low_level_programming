@@ -2,8 +2,7 @@
 /**
  * wildcmp - compares two strings with wildcmp
  * @s1: the first string 
- * @s2: the second string 
- *
+ * @s2: the second string
  * Return: 1 if the string is considered identical, 0 otherwise.
  */
 int wildcmp(char *s1, char *s2)
@@ -21,4 +20,3 @@ return (1);
 }
 return (0);
 }
-  
