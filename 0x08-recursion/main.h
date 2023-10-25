@@ -19,4 +19,6 @@ int _putchar(char c);
 
 int _strlen(char *s);
 
+int helper(int i, int n);
+
 #endif
