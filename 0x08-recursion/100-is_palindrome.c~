@@ -1,0 +1,6 @@
+#include "main.h"
+/**
+ * length - helps do it
+ * @s: string
+ * Return: string length
+ *

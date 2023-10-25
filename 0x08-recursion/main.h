@@ -21,4 +21,12 @@ int _strlen(char *s);
 
 int helper(int i, int n);
 
+int length(char *s);
+
+int helper2(int i, char *s);
+
+int is_palindrome(char *s);
+
+int wildcmp(char *s1, char *s2);
+
 #endif
