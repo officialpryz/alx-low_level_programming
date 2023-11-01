@@ -34,8 +34,6 @@ free(t);
 }
 for (a = 0; a < height; a++)
 for (b = 0; b < width; b++)
-t[a][b] = 0;
-  
+t[a][b] = 0;  
 return (t);
 }
-  
