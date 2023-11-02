@@ -4,9 +4,7 @@
  * array_range - range of integers.
  * @min: minimum value.
  * @max: maximum value.
- *
  * Return: int value.
- * 
  */
 int *array_range(int min, int max)
 {
