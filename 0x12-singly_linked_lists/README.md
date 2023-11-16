@@ -29,6 +29,6 @@ types and functions written for the project.
 
 * **4. Free list**
 
-* **5. The hare and the tortoise
+* **5. The hare and the tortoise**
 
 * **6. Real programmers can write assembly code in any language**
